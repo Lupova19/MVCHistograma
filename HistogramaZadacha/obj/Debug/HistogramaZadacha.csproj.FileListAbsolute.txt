@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\obj\Debug\HistogramaZadacha.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\obj\Debug\HistogramaZadacha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\obj\Debug\HistogramaZadacha.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\bin\Debug\HistogramaZadacha.exe.config
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\bin\Debug\HistogramaZadacha.exe
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\bin\Debug\HistogramaZadacha.pdb
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\obj\Debug\HistogramaZadacha.exe
+C:\Users\Admin\Desktop\Lupova19\MVCHIstogramZadacha\HistogramaZadacha\obj\Debug\HistogramaZadacha.pdb
